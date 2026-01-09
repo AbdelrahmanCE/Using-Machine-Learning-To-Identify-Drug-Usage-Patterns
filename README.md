@@ -14,3 +14,5 @@ This project applies machine learning models to identify drug usage patterns usi
 - XGBoost
 - SHAP
 
+## Dataset
+- https://www.kaggle.com/datasets/adamhamrick/national-survey-of-drug-use-and-health-20022018
